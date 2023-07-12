@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"productLine","STRING","16","0","0"
+"textDescription","STRING","735","0","0"
+"htmlDescription","STRING","36","0","0"
+"image","STRING","36","0","0"

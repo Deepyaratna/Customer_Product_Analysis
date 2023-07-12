@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"customerNumber","INTEGER","3","3","0"
+"checkNumber","STRING","11","0","0"
+"paymentDate","STRING","0","0","0"
+"amount","DECIMAL","9","6","2"

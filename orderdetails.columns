@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"orderNumber","INTEGER","5","5","0"
+"productCode","STRING","9","0","0"
+"quantityOrdered","INTEGER","2","2","0"
+"priceEach","DECIMAL","6","3","2"
+"orderLineNumber","INTEGER","2","2","0"
